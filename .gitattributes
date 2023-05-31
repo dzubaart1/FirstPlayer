@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.ucas filter=lfs diff=lfs merge=lfs -text
+Windows.rar filter=lfs diff=lfs merge=lfs -text
